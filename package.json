@@ -1,0 +1,16 @@
+{
+  "name": "crudsail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.15.0",
+    "xlsx": "^0.15.1",
+    "yarn": "^1.17.3"
+  }
+}
